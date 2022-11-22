@@ -1,9 +1,8 @@
-#MH-PSP-DLC
-#MHPSPDLC archive of all PSP Monster Hunter versions DLC pages
+# MH-PSP-DLC
 
 This fork is mostly to backup really specific combinations of DLC saves, for my own purposes and for anyone running these games on the native hardware. 
 
-##But why?
+## But why?
 
 Because installing [mhef](https://gitlab.com/svanheulen/mhef) was a pain in the ass, and since the DLC servers are still accessible in-game, why not? I'm not exactly fond of using the MHFU save editor OR emulating on PPSSPP.
 The archive on the original branch archives saves in a way that's designed for adding them onto an emulated save; this aims to archive saves in a way that someone on native hardware could use.
