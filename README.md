@@ -1,43 +1,16 @@
 #MH-PSP-DLC
 #MHPSPDLC archive of all PSP Monster Hunter versions DLC pages
 
+This fork is mostly to backup really specific combinations of DLC saves, for my own purposes and for anyone running these games on the native hardware. 
 
+##But why?
 
-Games Included:  
-    ID    	Game Name                          	DLC Stats (Event/Challenge Quests/Bonus Content etc.)
+Because installing [mhef](https://gitlab.com/svanheulen/mhef) was a pain in the ass, and since the DLC servers are still accessible in-game, why not? I'm not exactly fond of using the MHFU save editor OR emulating on PPSSPP.
+The archive on the original branch archives saves in a way that's designed for adding them onto an emulated save; this aims to archive saves in a way that someone on native hardware could use.
 
-ULJM-05066	Monster Hunter Portable            	19ev  
-ULUS-10084	Monster Hunter Freedom (USA)       	n/a - no DLC content at all  
-ULES-00318	Monster Hunter Freedom (EUR)       	n/a - no DLC content at all  
+More specifically, the MHFU save editor is just that -- it doesn't support F2, and I wanted to abuse Ceanataur SUUSS and the original Akantor Bow before getting into G-Rank content. There are a few other advantages to playing F2 first, like:
+* Being able to get several awards on Page 1 without having to wade into G-Rank (e.g., Farm awards, monster size crowns...)
+* The original Dos music for large monster fights
+* Normal bloodsplatter
 
-ULJM-05156	Monster Hunter Portable 2nd        	28ev/12+4chall/bonus  
-ULUS-10266	Monster Hunter Freedom 2 (USA)     	20ev/11chall/bonus  
-ULES-00851	Monster Hunter Freedom 2 (EUR)     	20ev/11chall/bonus  
-
-ULJM-05500	Monster Hunter Portable 2nd G      	38ev/14chall/bonus  
-ULUS-10391	Monster Hunter Freedom Unite (USA) 	ev28/14chall/bonus  
-ULES-01213	Monster Hunter Freedom Unite (EUR) 	ev28/14chall/bonus  
-
-ULJM-05800	Monster Hunter Portable 3rd        	ev52/14chall/bonus/5companion  
-NPJB-40001	Monster Hunter Portable 3rd HD     	same as ULJM-05800  
-
-
-
-Github Preview Links:  
-Overview	https://htmlpreview.github.io/?https://github.com/viciousShadow/MH-PSP-DLC/blob/master/INDEX.HTM  
-
-MHP	https://htmlpreview.github.io/?https://github.com/viciousShadow/MH-PSP-DLC/blob/master/MHP1-DLC-Screens/INDEX.HTM  
-MHF	https://htmlpreview.github.io/?https://github.com/viciousShadow/MH-PSP-DLC/blob/master/MHF1-DLC-Screens/INDEX.HTM  
-
-MHP2nd	https://htmlpreview.github.io/?https://github.com/viciousShadow/MH-PSP-DLC/blob/master/MHP2-DLC-Screens/INDEX.HTM  
-MHF2	https://htmlpreview.github.io/?https://github.com/viciousShadow/MH-PSP-DLC/blob/master/MHF2-DLC-Screens/INDEX.HTM  
-
-MHP2G	https://htmlpreview.github.io/?https://github.com/viciousShadow/MH-PSP-DLC/blob/master/MHP2G-DLC-Screens/INDEX.HTM  
-MHFU	https://htmlpreview.github.io/?https://github.com/viciousShadow/MH-PSP-DLC/blob/master/MHFU-DLC-Screens/INDEX.HTM  
-
-MHP3rd	https://htmlpreview.github.io/?https://github.com/viciousShadow/MH-PSP-DLC/blob/master/MHP3rd-DLC-Screens/INDEX.HTM  
-
-
-
-original bitmap files package for offline usage:
-https://github.com/viciousShadow/MH-PSP-DLC/raw/master/SRC/MH-PSP-DLC_20181107204035.7z
+If you find this useful in any way, feel free to use the [issue tracker](https://github.com/RF-TQ/MH-PSP-DLC/issues) if you'd like some specific combination of DLC on a fresh save to be added here, be it F2, Unite, or otherwise. The only limitation is that, as with anything downloaded through the DLC server in-game, you're only limited to six quests and the bonus content.
